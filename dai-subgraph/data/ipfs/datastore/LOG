@@ -1,0 +1,80 @@
+=============== Dec 1, 2024 (UTC) ===============
+18:13:49.703155 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:13:49.715461 db@open opening
+18:13:49.724995 version@stat F·[] S·0B[] Sc·[]
+18:13:49.730890 db@janitor F·2 G·0
+18:13:49.731254 db@open done T·15.511304ms
+18:13:50.347141 db@close closing
+18:13:50.348371 db@close done T·1.226406ms
+=============== Dec 1, 2024 (UTC) ===============
+18:13:50.378252 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:13:50.384390 version@stat F·[] S·0B[] Sc·[]
+18:13:50.384878 db@open opening
+18:13:50.386186 journal@recovery F·1
+18:13:50.386510 journal@recovery recovering @1
+18:13:50.392841 memdb@flush created L0@2 N·12 S·1KiB "/pi..NWY,v10":"/pr..crQ,v12"
+18:13:50.394275 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
+18:13:50.419797 db@janitor F·3 G·0
+18:13:50.419944 db@open done T·34.881591ms
+18:13:50.451593 db@close closing
+18:13:50.452862 db@close done T·1.265274ms
+=============== Dec 1, 2024 (UTC) ===============
+18:13:50.550711 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:13:50.556380 version@stat F·[1] S·1KiB[1KiB] Sc·[0.25]
+18:13:50.556955 db@open opening
+18:13:50.558302 journal@recovery F·1
+18:13:50.558595 journal@recovery recovering @3
+18:13:50.564593 memdb@flush created L0@5 N·6 S·1KiB "/F5..5KY,v19":"/pi..rty,v14"
+18:13:50.566539 version@stat F·[2] S·2KiB[2KiB] Sc·[0.50]
+18:13:50.587294 db@janitor F·4 G·0
+18:13:50.587552 db@open done T·30.427092ms
+18:13:50.614781 db@close closing
+18:13:50.615765 db@close done T·981.7µs
+=============== Dec 1, 2024 (UTC) ===============
+18:13:50.713173 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:13:50.718266 version@stat F·[2] S·2KiB[2KiB] Sc·[0.50]
+18:13:50.718782 db@open opening
+18:13:50.720006 journal@recovery F·1
+18:13:50.720361 journal@recovery recovering @6
+18:13:50.723859 version@stat F·[2] S·2KiB[2KiB] Sc·[0.50]
+18:13:50.744764 db@janitor F·4 G·0
+18:13:50.745046 db@open done T·26.060749ms
+18:13:50.772980 db@close closing
+18:13:50.773883 db@close done T·896.483µs
+=============== Dec 1, 2024 (UTC) ===============
+18:13:50.863794 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:13:50.868482 version@stat F·[2] S·2KiB[2KiB] Sc·[0.50]
+18:13:50.868911 db@open opening
+18:13:50.870402 journal@recovery F·1
+18:13:50.870849 journal@recovery recovering @8
+18:13:50.874299 version@stat F·[2] S·2KiB[2KiB] Sc·[0.50]
+18:13:50.893896 db@janitor F·4 G·0
+18:13:50.894145 db@open done T·25.02862ms
+=============== Dec 1, 2024 (UTC) ===============
+18:48:48.124800 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:48:48.131331 version@stat F·[2] S·2KiB[2KiB] Sc·[0.50]
+18:48:48.131805 db@open opening
+18:48:48.134751 journal@recovery F·1
+18:48:48.135063 journal@recovery recovering @10
+18:48:48.140203 memdb@flush created L0@12 N·10 S·1KiB "/F5..5KY,v30":"/pr..crQ,d28"
+18:48:48.141784 version@stat F·[3] S·3KiB[3KiB] Sc·[0.75]
+18:48:48.167314 db@janitor F·5 G·0
+18:48:48.168242 db@open done T·36.088942ms
+=============== Dec 1, 2024 (UTC) ===============
+18:53:53.634118 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:53:53.639064 version@stat F·[3] S·3KiB[3KiB] Sc·[0.75]
+18:53:53.639593 db@open opening
+18:53:53.640843 journal@recovery F·1
+18:53:53.641119 journal@recovery recovering @13
+18:53:53.646971 memdb@flush created L0@15 N·2 S·1KiB "/F5..5KY,v33":"/ip..PKW,v32"
+18:53:53.648922 version@stat F·[4] S·4KiB[4KiB] Sc·[1.00]
+18:53:53.672391 db@janitor F·6 G·0
+18:53:53.672625 db@open done T·32.793756ms
+18:53:53.672768 table@compaction L0·4 -> L1·0 S·4KiB Q·34
+18:53:53.686492 table@build created L1@18 N·7 S·1KiB "/F5..5KY,v33":"/pi..rty,v17"
+18:53:53.686835 version@stat F·[0 1] S·1KiB[0B 1KiB] Sc·[0.00 0.00]
+18:53:53.689264 table@compaction committed F-3 S-3KiB Ke·0 D·23 T·15.618261ms
+18:53:53.690536 table@remove removed @15
+18:53:53.691891 table@remove removed @12
+18:53:53.693807 table@remove removed @5
+18:53:53.695079 table@remove removed @2
